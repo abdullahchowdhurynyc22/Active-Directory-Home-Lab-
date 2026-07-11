@@ -48,16 +48,18 @@ The lab simulates real-world enterprise IT support tasks and replicates a small 
 ## Screenshots
 
 ### Domain Controller Setup
-![Domain Controller Setup](path/to/screenshot1.png)
+<img width="672" height="419" alt="Image" src="https://github.com/user-attachments/assets/9cec4421-f924-40bf-95df-14d72c19a2a5" />
 
 ### Organizational Unit Structure
-![Organizational Unit Structure](path/to/screenshot2.png)
+<img width="672" height="483" alt="Image" src="https://github.com/user-attachments/assets/6936d696-6d67-425b-ae55-0f0a7c7223e8" />
 
 ### Domain Join
-![Domain Join](path/to/screenshot3.png)
+<img width="648" height="671" alt="Image" src="https://github.com/user-attachments/assets/562439be-22eb-48bb-94bb-33317b926d09" />
 
 ### Domain User Login
-![Domain User Login](path/to/screenshot4.png)
+
+<img width="671" height="415" alt="Image" src="https://github.com/user-attachments/assets/6dae28e7-86e2-462a-9eb9-6d1a8f8c4be1" />
 
 ### File Share Access Test
-![File Share Access Test](path/to/screenshot5.png)
+
+<img width="672" height="264" alt="Image" src="https://github.com/user-attachments/assets/da1050ac-06e8-4755-8466-102e03f300ec" />
